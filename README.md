@@ -13,14 +13,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yolticmtzz" alt="yolticmtzz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yolticmtzz" target="blank"><img src="https://img.shields.io/twitter/follow/yolticmtzzsnt?logo=twitter&style=for-the-badge" alt="yolticmtzz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yolticmtzz" target="blank"><img src="https://img.shields.io/twitter/follow/yolticmtzz?logo=twitter&style=for-the-badge" alt="yolticmtzz" /></a> </p>
 
 - 🌱 Actualmente utilizo **C#, NET CORE, Angular**
-
- 
-
 - 📫 Contacto **frankymr11@gmail.com**
-
 - 📄 Conoce mi experiencia [www.linkedin.com/in/yoltic-martinez](www.linkedin.com/in/yoltic-martinez)
 
 <hr>
