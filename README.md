@@ -2,34 +2,29 @@
 <h3 align="center">Senior developer de México</h3>
 
 <a href="www.linkedin.com/in/yoltic-martinez">
-<img src='https://github.com/yolticmtzz/yolticmtzz/blob/master/github.jpg'>
+<p align="center">
+<img src='https://github.com/yolticmtzz/yolticmtzz/blob/master/github.jpg'> 
+</p>
+
 </a>
 <hr>
- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yolticmtzz&label=Profile%20views&color=0e75b6&style=flat" alt="yolticmtzz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yolticmtzz" alt="yolticmtzz" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/yolticmtzz" target="blank"><img src="https://img.shields.io/twitter/follow/yolticmtzzsnt?logo=twitter&style=for-the-badge" alt="yolticmtzz" /></a> </p>
 
-- 🌱 I’m currently learning .NET 5 **C#, NET CORE, Anduglar**
+- 🌱 Actualmente utilizo **C#, NET CORE, Angular**
 
  
 
+- 📫 Contacto **frankymr11@gmail.com**
 
-
-- 💬 Ask me about **C#,EF,Angular,React,Dart**
-
-- 📫 How to reach me **frankymr11@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/vanikhakobyan/](https://www.linkedin.com/in/vanikhakobyan/)
+- 📄 Conoce mi experiencia [www.linkedin.com/in/yoltic-martinez](www.linkedin.com/in/yoltic-martinez)
 
 <hr>
-
-
-
 <hr>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yolticmtzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yolticmtzz" height="30" width="40" /></a>
