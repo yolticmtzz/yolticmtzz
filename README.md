@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Vanik Hakobyan</h1>
-<h3 align="center">Senior developer from Armenia</h3>
+<h1 align="center">Hola 👋, Soy Yoltic Martinez</h1>
+<h3 align="center">Senior developer de México</h3>
 
 <a href="www.linkedin.com/in/yoltic-martinez">
 <img src='https://github.com/yolticmtzz/yolticmtzz/blob/master/github.jpg'>
 </a>
 <hr>
-<p align="center">
-<img src='https://github.com/yolticmtzz/yolticmtzz/blob/master/GitHubQR.png'>&nbsp;&nbsp;<img src='https://github.com/yolticmtzz/yolticmtzz/blob/master/LinkedinQR.png'>
-</p>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yolticmtzz&label=Profile%20views&color=0e75b6&style=flat" alt="yolticmtzz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yolticmtzz" alt="yolticmtzz" /></a> </p>
