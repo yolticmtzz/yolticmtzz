@@ -51,9 +51,9 @@
 	 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/yolticmtzz/yolticmtzz/master/Icons/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 	 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/yolticmtzz/yolticmtzz/master/Icons/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
 
- 	 <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/yolticmtzz/yolticmtzz/master/Icons/angular.svg" alt="angular" width="40" height="40"/> </a> 
+ 	 <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/yolticmtzz/yolticmtzz/master/Icons/angular.svg" alt="angular" width="40" height="40"/> </a> 
 
- 	 <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/yolticmtzz/yolticmtzz/master/Icons/flutter.svg" alt="flutter" width="40" height="40"/> </a> 
+ 	 <a href="https://flutter.dev" target="_blank"> <img src="https://raw.githubusercontent.com/yolticmtzz/yolticmtzz/master/Icons/flutter.svg" alt="flutter" width="40" height="40"/> </a> 
 	 
  </p>
 
