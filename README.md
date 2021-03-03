@@ -57,7 +57,7 @@
 
 <hr>
 
-Me gusta darle solució a problemas o situaciónes dentro del campo laboral.
+Me gusta darle solución a problemas o situaciónes dentro del campo laboral.
  
 Me especializó en  .NET  desarrollando apis rest con conexión a SQL utilizando ef core o ADO.NET dependiendo del proyecto.
 A traves del tiempo me eh seguido actualizando hasta llegar a utilizar Angular y React para la parte de Front para desarrollos de plataformas web,
