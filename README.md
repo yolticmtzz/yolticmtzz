@@ -17,14 +17,14 @@
 
 - 🌱 Actualmente utilizo **C#, NET CORE, Angular**
 - 📫 Contacto **frankymr11@gmail.com**
-- 📄 Conoce mi experiencia [www.linkedin.com/in/yoltic-martinez](www.linkedin.com/in/yoltic-martinez)
+- 📄 Conoce mi experiencia [www.linkedin.com/in/yoltic-martinez](https://linkedin.com/in/yoltic-martinez)
 
 <hr>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yolticmtzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yolticmtzz" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/yoltic-martinez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yolticmtzz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yoltic-martinez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yolticmtzz" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/vanhak" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="vanhak" height="30" width="40" /></a> -->
 <a href="http://fb.com/yolticmtz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yolticmtzz" height="30" width="40" /></a>
 <a href="https://instagram.com/yolticmtzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yolticmtzz" height="30" width="40" /></a> 
