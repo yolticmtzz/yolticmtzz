@@ -3,7 +3,7 @@
 
 <a href="www.linkedin.com/in/yoltic-martinez">
 <p align="center">
-<img src='https://github.com/yolticmtzz/yolticmtzz/blob/master/github.jpg'> 
+<img src='https://github.com/yolticmtzz/yolticmtzz/blob/master/github.png'> 
 </p>
 
 </a>
