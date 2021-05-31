@@ -19,7 +19,7 @@
 
 - 🌱 Actualmente utilizo **C#, NET CORE, Angular**
 - 📫 Contacto **frankymr11@gmail.com**
-- 📄 Conoce mi experiencia [www.linkedin.com/in/yoltic-martinez](https://linkedin.com/in/yoltic-martinez)
+- 📄 Conoce mi experiencia [Linkedin](https://linkedin.com/in/yoltic-martinez)
 
 <hr>
 <hr>
