@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Yoltic Martinez</h1>
-<h3 align="center">Senior developer de México</h3>
+<h1 align="center">Hi 👋, I'm Yoltic Martinez</h1>
+<h3 align="center">FullStack Developer from Mx.</h3>
 
 <a href="www.linkedin.com/in/yoltic-martinez">
 <p align="center">
@@ -9,7 +9,7 @@
 </a>
 <hr>
 
- 🌐 Proyectos realizados   => [SitioWeb](http://yolticdev.com/)
+ 🌐 Projects   => [SitioWeb](http://yolticdev.com/)
 
  <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yolticmtzz&label=Profile%20views&color=0e75b6&style=flat" alt="yolticmtzz" /> </p>
@@ -18,9 +18,9 @@
 
 <p align="left"> <a href="https://twitter.com/yolticmtzz" target="blank"><img src="https://img.shields.io/twitter/follow/yolticmtzz?logo=twitter&style=for-the-badge" alt="yolticmtzz" /></a> </p>
 
-- 🌱 Actualmente utilizo **C#, NET CORE, Angular**
-- 📫 Contacto **frankymr11@gmail.com**
-- 📄 Conoce mi experiencia [Linkedin](https://linkedin.com/in/yoltic-martinez)
+- 🌱 currently use**C#, NET CORE, Angular**
+- 📫 Contact **frankymr11@gmail.com**
+- 📄 Get to know my experience [Linkedin](https://linkedin.com/in/yoltic-martinez)
 
 <hr>
 <hr>
@@ -63,10 +63,14 @@
 
 <hr>
 
-Me gusta darle solución a problemas o situaciónes dentro del campo laboral.
- 
-Me especializó en  .NET  desarrollando apis rest con conexión a SQL utilizando ef core o ADO.NET dependiendo del proyecto.
-A traves del tiempo me eh seguido actualizando hasta llegar a utilizar Angular y React para la parte de Front para desarrollos de plataformas web,
-asó como Xamarin y flutter para aplicaciónes móviles.
+I am a FullStack developer in an office in Monterrey, México.
+
+I Work as a team leader at many projects where I generally use .net core, SQL, and Angular.
+
+I normally use .net core for backend and Angular for Fronted or Flutter for mobile apps.
+
+🌎💻 You can find the projects I've worked on in my portfolio => www.yolticdev.com
+
+Regards!!
 
 
